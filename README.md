@@ -124,7 +124,8 @@ The Power BI dashboard successfully transforms raw sales data into meaningful bu
 
 This project highlights the importance of data visualization in decision-making and demonstrates strong BI and analytical capabilities.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/adhruvkumar2-gif/Super-Store-Sales/blob/main/Screenshot%202026-04-17%20225102.png)
+
 
 🚀 Future Scope
 Integration with real-time sales data
