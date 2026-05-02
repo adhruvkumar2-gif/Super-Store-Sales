@@ -57,34 +57,44 @@ Total Sales: 2M
 Total Profit: 175K
 Total Quantity: 22K
 Average Shipping Time: 3.93 days
+
 ✔ Sales by Category
 Office Supplies lead in sales
 Furniture and Technology follow
+
 ✔ Sales by Sub-Category
 Tables generate the highest sales
 Bookcases and Copiers contribute moderately
+
 ✔ Sales by Ship Mode
 Standard Class is the most used shipping method
 First Class, Second Class, and Same Day follow
+
 ✔ Monthly Sales & Profit (YoY)
 Sales and profit trends are visualized across months
 Comparison between years (2019 and 2020) shows growth patterns
+
 ✔ Regional Analysis
 West region contributes the highest share (~32%)
 East (~29%) and South (~16%) follow
+
 ✔ Customer Segmentation
 Consumer segment dominates (~30%+)
 Corporate and Home Office contribute smaller shares
+
 ✔ Payment Mode Distribution
 COD: ~42%
 Online: ~37%
 Cards: ~22%
+
 ✔ Time-Series Analysis
 Sales trends plotted over time (2019–2021)
 Identifies seasonal peaks and dips
+
 ✔ Geographical Insights
 State-wise sales and profit distribution
 Helps identify high-performing and low-performing regions
+
 📌 Key Results & Insights
 
 📈 Strong Sales Performance:
@@ -114,6 +124,7 @@ The Power BI dashboard successfully transforms raw sales data into meaningful bu
 
 This project highlights the importance of data visualization in decision-making and demonstrates strong BI and analytical capabilities.
 
+![alt text](http://url/to/img.png)
 
 🚀 Future Scope
 Integration with real-time sales data
