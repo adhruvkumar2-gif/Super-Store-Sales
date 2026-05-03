@@ -1,5 +1,5 @@
-# Data_Analysis
-Store sales dashboard
+#Store sales dashboard 
+
 📌 Project Overview
 
 This project represents a Sales Dashboard Analytics System developed using Power BI to analyze retail sales performance across different dimensions such as category, region, customer segment, and time.
